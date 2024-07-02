@@ -1,0 +1,11 @@
+All request timings:
+Iteration 1: 2.351 seconds
+Iteration 2: 1.673 seconds
+Iteration 3: 1.459 seconds
+Iteration 4: 1.779 seconds
+Iteration 5: 1.845 seconds
+Iteration 6: 1.739 seconds
+Iteration 7: 1.883 seconds
+Iteration 8: 1.705 seconds
+Iteration 9: 1.632 seconds
+Iteration 10: 1.536 seconds

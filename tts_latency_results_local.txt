@@ -1,0 +1,10 @@
+Run 1: Avg Latency: 0.810s, Min Latency: 0.672s, Max Latency: 1.101s, SD: 0.169s
+Run 2: Avg Latency: 0.721s, Min Latency: 0.700s, Max Latency: 0.741s, SD: 0.016s
+Run 3: Avg Latency: 0.691s, Min Latency: 0.614s, Max Latency: 0.767s, SD: 0.056s
+Run 4: Avg Latency: 0.699s, Min Latency: 0.657s, Max Latency: 0.737s, SD: 0.034s
+Run 5: Avg Latency: 0.654s, Min Latency: 0.611s, Max Latency: 0.711s, SD: 0.040s
+Run 6: Avg Latency: 0.706s, Min Latency: 0.666s, Max Latency: 0.723s, SD: 0.023s
+Run 7: Avg Latency: 0.705s, Min Latency: 0.627s, Max Latency: 0.766s, SD: 0.050s
+Run 8: Avg Latency: 0.716s, Min Latency: 0.715s, Max Latency: 0.716s, SD: 0.000s
+Run 9: Avg Latency: 0.695s, Min Latency: 0.613s, Max Latency: 0.719s, SD: 0.046s
+Run 10: Avg Latency: 0.739s, Min Latency: 0.630s, Max Latency: 0.830s, SD: 0.085s
